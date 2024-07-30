@@ -42,5 +42,11 @@ action functions requires careful consideration of data structures and algorithm
 
 
 
-# For a detailed explanation of the program please read the description.txt.
+
+
+
+
+
+**For a detailed explanation of the program please read the description.txt.**
+
 
